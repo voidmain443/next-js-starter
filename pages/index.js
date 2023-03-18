@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Welcome here! my name is gregory Paul !</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="gregory Paul" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          here will be the reseme and some of my port folio for graduate, and PR myself ! this will make with nextjs and three.js !<code>This will be update! soon!</code>
         </p>
       </main>
 
